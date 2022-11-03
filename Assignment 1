@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Registration form</title>
+</head>
+<body>
+<form>
+<table>
+<tr>
+<td>
+Name:
+</td>
+<td>
+<input type="text" placeholder="Name" name="">
+</td>
+</tr>
+<tr>
+<td>
+Gender:
+</td>
+<td>
+<input type="radio" name="Gender">Male
+<input type="radio" name="Gender">Female
+</td>
+</tr>
+<tr>
+<td>
+Email:
+</td>
+<td>
+<input type="mail" placeholder="Email" name="">
+</td>
+</tr>
+<tr>
+<td>
+Phone Number:
+</td>
+<td>
+<input type="Phone" placeholder="3486357695" name="">
+</td>
+</tr>
+<tr>
+<td>
+City:
+</td>
+<td>
+<select>
+<option> </option>
+<option>Sivakasi</option>
+
+<option>Sankarankovil</option>
+<option>Madurai</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+State:
+</td>
+<td>
+<select>
+<option> </option>
+<option>Tamilnadu</option>
+<option>Karnadaga</option>
+<option>Andraprathesh</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+Country:
+</td>
+<td>
+<select>
+<option> </option>
+<option>India</option>
+<option>Pakisthan</option>
+<option>Dubai</option>
+</select>
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
