@@ -1,2 +1,0 @@
-What are the other frameworks that can be used with python?
-        Django, Bottle, Pyramid, web2py, TurboGears, Pylons.
