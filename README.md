@@ -68,4 +68,4 @@ PSR Engineering College
 **Database:** IBM DB2
 
 
-![Thank You :-)](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fthank-you-sign&psig=AOvVaw0_RLNpTYEnM_71xlpdWekz&ust=1668924780323000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiZ57LLufsCFQAAAAAdAAAAABAE)
+![Thank You :-)](https://i0.wp.com/paulaspoint.com/wp-content/uploads/2018/04/thank-you.jpg?fit=275%2C183)
